@@ -1,0 +1,123 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio Code
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# MonoGame
+[Cc]ontent/bin/
+[Cc]ontent/obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+.nuget/
+packages/
+.packages/
+
+# Local NuGet package folder
+**/packages/*
+!**/packages/build/
+!**/packages/BenchmarkDotNet.Annotations/
+
+# Build folders
+artifacts/
+out/
+build/
+
+# Mono specific
+mono_crash.*
+
+# Xamarin
+*.apk
+*.aab
+*.app
+
+# Android
+bin/
+gen/
+*.apk
+*.ap_
+*.dex
+*.class
+.gradle/
+.idea/
+local.properties
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.directory
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+riderModule.iml
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Coverage reports
+coverage.opencover.xml
+coverage.cobertura.xml
+coverage.json
+
+# MyGet
+.myget/
+
+# npm
+node_modules/
+npm-debug.log
